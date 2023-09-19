@@ -1,0 +1,8 @@
+{
+  "/(main)/page": "app/(main)/page.js",
+  "/(main)/account/(auth)/link-bank/page": "app/(main)/account/(auth)/link-bank/page.js",
+  "/(main)/account/(auth)/login/page": "app/(main)/account/(auth)/login/page.js",
+  "/(main)/account/(auth)/merchant-register-final/page": "app/(main)/account/(auth)/merchant-register-final/page.js",
+  "/(main)/account/(auth)/retailer-email/page": "app/(main)/account/(auth)/retailer-email/page.js",
+  "/(main)/account/(auth)/customer-support/page": "app/(main)/account/(auth)/customer-support/page.js"
+}
